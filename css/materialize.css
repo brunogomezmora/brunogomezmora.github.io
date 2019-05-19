@@ -4272,7 +4272,7 @@ table span.badge {
 nav {
 
   color: #000;
-  width: 100%;
+  width: 100vw;
   height: 56px;
   line-height: 56px;
 
